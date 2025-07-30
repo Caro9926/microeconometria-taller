@@ -8,7 +8,7 @@ Este repositorio contiene el material de clases desarrollado para un grupo de es
 - Repaso de Mínimos Cuadrados Ordinarios (MCO)
 - Propiedades del estimador MCO y demostración de supuestos clásicos
 - Modelo básico: `salario = años de educación + género + edad + error`
-- Introducción a modelos con variable dependiente logarítmica
+- Demostración del estimador de MCO.
 
 ### 🔹 Semana 2: Problemas en la estimación
 - Sesgo por variables omitidas
@@ -25,8 +25,6 @@ Este repositorio contiene el material de clases desarrollado para un grupo de es
 ### 🔹 Semana 4: Regresión Discontinua
 - Introducción a diseño de regresión discontinua (RDD)
 - Ejemplo práctico en STATA
-- 📚 **Caso de estudio**:  
-  *Carpenter & Dobkin (2009). The Effect of Alcohol Consumption on Mortality*
 
 ### 🔹 Semana 5: Diferencias en Diferencias (DiD)
 - Diseño de estimación con diferencias en diferencias
