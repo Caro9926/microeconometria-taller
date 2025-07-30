@@ -58,5 +58,5 @@ Este repositorio contiene el material de clases desarrollado para un grupo de es
 
 ## 👨‍🏫 Autoras
 
-Este curso fue elaborado para los estudiantes de la Universidad Nacional de Ingeniería (UNI), como una propuesta de formación práctica y sólida en microeconometría aplicada del grupo de voluntariado Women in Economics. Las autoras de este contenido son Carolina Saavedra y Emily Saavedra. 
+Este curso fue elaborado para los estudiantes de la Universidad Nacional de Ingeniería (UNI), como una propuesta de formación práctica y sólida en microeconometría aplicada del grupo de voluntariado Women in Economics. Las autoras de este contenido son Carolina Saavedra y [Emily Saavedra](https://github.com/Emilyliz)
 
